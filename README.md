@@ -2,7 +2,6 @@
 
 An intelligent, browser-based ESL (English as a Second Language) training platform powered by AI. This lightweight application uses contextual intelligence to dynamically generate quizzes, assess English language comprehension, and provide real-time learning reinforcement.
 
-<Image src="image_agent_tag_16424529658572116548" alt="Language learning application dashboard interface with performance charts and course progress track" caption="FluentAI Concept Dashboard Layout" />
 
 ## 🧠 AI Features
 * **Dynamic Quiz Generation:** Say goodbye to static question banks. Quizzes adapt in real-time based on user performance and focus areas.
